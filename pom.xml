@@ -27,7 +27,7 @@
         <java.version>1.8</java.version>
     </properties>
     <scm>
-        <developerConnection>scm:git:http://github.com:rmonje/sfg-pet-clinic.git</developerConnection>
+        <developerConnection>scm:git:http://github.com/rmonje/sfg-pet-clinic.git</developerConnection>
         <tag>sfg-pet-clinic-2.0.3</tag>
     </scm>
     <build>
