@@ -45,9 +45,4 @@ public class PetSDJpaService implements PetService {
     public void deleteById(Long aLong) {
         petRepository.deleteById(aLong);
     }
-
-    @Override
-    public Pet findByLastName(String lastName) {
-        return petRepository.findByLastName(lastName);
-    }
 }
